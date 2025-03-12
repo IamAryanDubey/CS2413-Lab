@@ -81,7 +81,7 @@ void myQueueFree(MyQueue* obj) {
 
 
 
-/*Question 2 - */
+/*Question 2 - Implementing stacks using queue.*/
 
 #include <stdio.h>
 #include <stdlib.h>
